@@ -1,0 +1,104 @@
+[
+    {
+        "recipe_img": "https://i.ibb.co.com/8YWkpYJ/hand-placing-flower-bread.jpg",
+        "recipe_id": "001",
+        "recipe_name": "Chicken Curry",
+        "description": "A spicy and flavorful chicken curry made with Indian spices.",
+        "preparing_time": 45,
+        "calories": 350,
+        "ingredients":[
+            "250 g chicken breast",
+            "125 g soy sauce",
+            "250 g basil leaves",
+            "420 g mushrooms",
+            "2 cloves garlic , minced",
+            "5 red bell pepper",
+            "3 green bell pepper"
+        ]
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/ypVpr5w/italian-food-decoration-with-clipboard-middle.jpg",
+        "recipe_id": "002",
+        "recipe_name": "Vegetable Stir Fry",
+        "description": "A healthy vegetable stir fry with a mix of colorful veggies and soy sauce.",
+        "preparing_time": 25,
+        "calories": 200,
+        "ingredients":[
+            "550 g chicken breast",
+            "120 g soy sauce",
+            "200 g basil leaves",
+            "400 g mushrooms",
+            "2 cloves garlic , minced",
+            "1 red bell pepper",
+            "1 green bell pepper"
+        ]
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/q76grTc/top-view-tasty-sandwiches-arrangement.jpg",
+        "recipe_id": "003",
+        "recipe_name": "Beef Stew",
+        "description": "A hearty beef stew with potatoes, carrots, and rich broth.",
+        "preparing_time": 90,
+        "calories": 450,
+        "ingredients":[
+            "550 g chicken breast",
+            "120 g soy sauce",
+            "200 g basil leaves",
+            "400 g mushrooms",
+            "2 cloves garlic , minced",
+            "1 red bell pepper",
+            "1 green bell pepper"
+        ]
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/x5FHFPp/stir-fried-noodle-that-combines-corn-golden-needle-mushroom-tomato-sausage-edamame-spring-onions-fry.jpg",
+        "recipe_id": "004",
+        "recipe_name": "Pasta Alfredo",
+        "description": "Creamy Alfredo pasta with a rich garlic and parmesan sauce.",
+        "preparing_time": 30,
+        "calories": 600,
+        "ingredients":[
+            "552 g chicken breast",
+            "120 g soy sauce",
+            "200 g basil leaves",
+            "410 g mushrooms",
+            "2 cloves garlic , minced",
+            "5 red bell pepper",
+            "1 green bell pepper"
+        ]
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/8bH0YP8/top-view-food-ingredients-with-fresh-vegetables.jpg",
+        "recipe_id": "005",
+        "recipe_name": "Grilled Salmon",
+        "description": "Delicious grilled salmon served with lemon and herbs.",
+        "preparing_time": 20,
+        "calories": 250,
+        "ingredients":[
+            "510 g chicken breast",
+            "120 g soy sauce",
+            "280 g basil leaves",
+            "400 g mushrooms",
+            "2 cloves garlic , minced",
+            "3 red bell pepper",
+            "1 green bell pepper"
+        ]
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/GndQ7hs/top-view-food-ingredients-with-pumpkin-soup.jpg",
+        "recipe_id": "006",
+        "recipe_name": "Greek Salad",
+        "description": "A refreshing Greek salad with feta cheese, olives, and cucumbers.",
+        "preparing_time": 15,
+        "calories": 150,
+        "ingredients":[
+            "550 g chicken breast",
+            "220 g soy sauce",
+            "300 g basil leaves",
+            "200 g mushrooms",
+            "2 cloves garlic , minced",
+            "5 red bell pepper",
+            "2 green bell pepper"
+        ]
+    }
+]
